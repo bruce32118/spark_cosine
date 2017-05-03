@@ -8,9 +8,9 @@ import com.ruten.tools.berkeley.BerkeleyDbSparkFactory._
 import com.ruten.tools.berkeley.BerkeleyDbSparkFactory 
 import collection.JavaConversions._
 import collection.JavaConversions
-import com.ruten.setting._
-import com.ruten.recommend._
-import com.ruten.util._
+import com.company.setting._
+import com.company.recommend._
+import com.company.util._
 
 object Recommendation extends App with Tools{
 
