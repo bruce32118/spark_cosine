@@ -7,7 +7,7 @@ import org.apache.spark.sql.SQLContext
 import org.apache.spark.sql.DataFrame
 import org.apache.spark.ml.feature.StringIndexer
 import org.apache.spark.ml.{Pipeline, PipelineModel}
-import com.ruten.setting._
+import com.company.setting._
 import scala.math._
 import org.apache.spark.sql.functions.udf
  
